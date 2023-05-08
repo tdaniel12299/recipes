@@ -6,3 +6,9 @@ body {
     background-image:url(https://images-cdn.welcomesoftware.com/Zz0zZTliMjQ4MzhlNGExMWViYmJiMjFiZTI2ZWNmN2MzZA==);
     background-attachment: fixed;
 }
+.header {
+    margin: auto;
+    width: 50%;
+    font-size: 60px;
+    font-family: ;
+}
