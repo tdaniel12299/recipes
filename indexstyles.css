@@ -13,6 +13,9 @@ body {
     font-family:"Courgette", Verdana, Geneva, Tahoma, sans-serif;
     color:rgb(211, 117, 198)
 }
-.Recipes {
-    display: inline-block
+.recipe {
+    display: inline-block;
+}
+a {
+    text-decoration: none;
 }
