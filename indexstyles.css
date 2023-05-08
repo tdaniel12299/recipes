@@ -11,5 +11,8 @@ body {
     width: 50%;
     font-size: 60px;
     font-family:"Courgette", Verdana, Geneva, Tahoma, sans-serif;
-    color:blanchedalmond
+    color:rgb(211, 117, 198)
+}
+.Recipes {
+    display: inline-block
 }
