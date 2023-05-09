@@ -53,3 +53,8 @@ a {
     border-radius: 10%;
     padding: 1px;
 }
+h3 {
+    font-family: "Courgette", Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100px;
+    color:rgb(151, 97, 158);
+}
