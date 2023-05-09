@@ -2,9 +2,10 @@
     height: auto;
     width: 400px;
     margin:10px;
-    border: 3px solid rgb(211, 117, 198);
+    border: 2px solid rgb(211, 117, 198);
     border-radius: 10%;
     box-shadow: 0px 0px 10px black;
+    padding: 1px;
 
 
 }
@@ -24,8 +25,9 @@ body {
     color:rgb(211, 117, 198);
     align-items: center;
 }
-.recipe {
-    display:inline-block;
+.recipe li {
+    display:inline;
+    float:left;
 }
 a {
     text-decoration: none;
@@ -42,4 +44,12 @@ a {
     background-color: white;
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.479);
     overflow: hidden;
+}
+.indexphotos {
+    max-width: 10%;
+    max-height: 10%;
+    margin: 10px 20px;
+    border: 2px solid rgb(211, 117, 198);
+    border-radius: 10%;
+    padding: 1px;
 }
