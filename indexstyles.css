@@ -9,11 +9,13 @@
 }
 ul {
     list-style: none;
+    display: flex;
+    
 }
 ul li {
-        margin: 20px;
+        margin: 10px;
         font-size: 20px;
-        display: inline;
+        display: inline-flex;
     
 }
 body {
@@ -34,7 +36,13 @@ body {
 }
 a {
     text-decoration: none;
+    font-family:"Courgette", Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
 }
+a:hover{
+    opacity: 50%;
+}
+
 .content {
     display:block;
     margin:auto;
@@ -50,8 +58,8 @@ a {
     overflow: hidden;
 }
 .indexphotos {
-    max-width: 10%;
-    max-height: 10%;
+    max-width: 55%;
+    max-height: 55%;
     margin: 10px 20px;
     border: 2px solid rgb(211, 117, 198);
     border-radius: 10%;
@@ -61,4 +69,6 @@ h3 {
     font-family: "Courgette", Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 100px;
     color:rgb(151, 97, 158);
+    margin-bottom: 65px;
+    font-size: 20px;
 }
