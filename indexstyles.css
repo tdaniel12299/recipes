@@ -10,6 +10,7 @@ body {
     background-image:url(https://images-cdn.welcomesoftware.com/Zz0zZTliMjQ4MzhlNGExMWViYmJiMjFiZTI2ZWNmN2MzZA==);
     background-attachment: fixed;
     background-size: cover;
+    text-align: center;
 
 }
 .header {
@@ -26,4 +27,7 @@ body {
 }
 a {
     text-decoration: none;
+}
+.content {
+    border: 1 solid white;
 }
