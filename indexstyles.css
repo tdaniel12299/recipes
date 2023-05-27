@@ -1,6 +1,7 @@
 #logo {
     height: auto;
-    width: 400px;
+    max-width: 400px;
+    min-width: 150px;
     margin:10px;
     border: 2px solid rgb(211, 117, 198);
     border-radius: 10%;
@@ -61,7 +62,7 @@ a:hover{
 }
 .indexphotos {
     max-width: 55%;
-    max-height: 55%;
+    max-height: auto;
     margin: 10px 20px;
     border: 2px solid rgb(211, 117, 198);
     border-radius: 10%;
@@ -73,4 +74,7 @@ h3 {
     color:rgb(151, 97, 158);
     margin-bottom: 65px;
     font-size: 20px;
+}
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+
 }
