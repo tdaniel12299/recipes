@@ -39,8 +39,8 @@ body {
     margin: auto;
     margin-bottom: 20px;
     height:auto;
-    width: 50%;
-    font-size: clamp(3.11rem, calc(136.45rem + -666.70vw), 11.44rem);
+    width: auto;
+    font-size: clamp(2.16rem, calc(0.88rem + 6.41vw), 4.88rem);
     font-family: "Courgette", Verdana, Geneva, Tahoma, sans-serif;
     color:rgb(211, 117, 198);
 }
